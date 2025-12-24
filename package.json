@@ -1,0 +1,14 @@
+{
+  "name": "barq",
+  "private": true,
+  "packageManager": "pnpm@10.26.2",
+  "description": "A barcode and QR code generator with web app and browser extension.",
+  "keywords": ["barcode", "qr code", "generator", "web app", "browser extension"],
+  "scripts": {
+    "dev": "pnpm -r dev",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint"
+  },
+  "author": "junvale",
+  "license": "ISC"
+}
